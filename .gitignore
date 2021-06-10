@@ -1,0 +1,7 @@
+.env
+node_modules
+logs
+request.rest
+.vscode
+.eslintrc.json
+.prettierrc
